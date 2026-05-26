@@ -1,1 +1,2 @@
 and hi mohammed
+create page home
