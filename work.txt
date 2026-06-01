@@ -1,8 +1,5 @@
 and hi mohammed
 create page home
-
-create page webview
-
 create page video
 create dashbord
 
