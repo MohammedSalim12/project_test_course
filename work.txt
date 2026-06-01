@@ -1,5 +1,3 @@
-and hi mohammed
-create page home
 create page video
 create dashbord
 create page login
